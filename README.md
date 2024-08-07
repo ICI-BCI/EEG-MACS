@@ -13,5 +13,5 @@ Cross-center data heterogeneity and annotation unreliability significantly chall
 
 
 ### Running the code on MCI and PD
-We have made our code available for execution on PD and MCI datasets. The PD datasets are publicly accessible and can be obtained from [http://predict.cs.unm.edu/]. Access to the MCI and AD datasets is available upon request to the corresponding author after the publication of this work, subject to approval from the collaborating hospitals. Additionally, we will uploaded the processed public PD dataset via [https://drive.google.com/drive/folders/1XIVBDAOPeI0keiH3Ap2nG-xIwPHdEXVg?usp=sharing], and users can execute our approach using the provided example scripts run.sh.
+We have made our code available for execution on PD and MCI datasets. The PD datasets are publicly accessible and can be obtained from [http://predict.cs.unm.edu/]. Access to the MCI and AD datasets is available upon request to the corresponding author after the publication of this work, subject to approval from the collaborating hospitals. Additionally, we will uploaded the processed public PD dataset via [https://drive.google.com/drive/folders/1HD2lOxhpy3U9szeDI3hempHk9LTyG6AM?usp=sharing], and users can execute our approach using the provided example scripts run.sh.
 
